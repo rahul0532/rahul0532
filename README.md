@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Rahul Raj</h1>
-<h3 align="center">A passionate Artificial Intelligence/ Machine learning engineer</h3>
+<h3 align="center">Artificial Intelligence/ Machine learning engineer</h3>
 <img align="right" alt="coding" width="600" src="https://i.pinimg.com/originals/b5/d3/69/b5d3692a872936d05a3d770e5327c6ec.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul0532&label=Profile%20views&color=0e75b6&style=flat" alt="rahul0532" /> </p>
 
@@ -11,6 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/rahul-raj-449b23136" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-raj-449b23136" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
