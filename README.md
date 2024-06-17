@@ -1,6 +1,7 @@
 <h1 align="center">Hi , I'm Rahul Raj</h1>
 <h3 align="center">A passionate Artificial Intelligence/ Machine learning engineer</h3>
-<img aign="right" alt="coding" width="400" src"https://i.pinimg.com/originals/b5/d3/69/b5d3692a872936d05a3d770e5327c6ec.gif">
+<img aign="right" alt="coding" width="400" src"![image](https://github.com/rahul0532/rahul0532/assets/109042523/5635f534-086c-449a-8799-afa2a9504359)
+">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul0532&label=Profile%20views&color=0e75b6&style=flat" alt="rahul0532" /> </p>
 
 - 🌱 I’m currently learning **Deep Learning**
