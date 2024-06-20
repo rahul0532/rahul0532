@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="600" src="https://i.pinimg.com/originals/b5/d3/69/b5d3692a872936d05a3d770e5327c6ec.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul0532&label=Profile%20views&color=0e75b6&style=flat" alt="rahul0532" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Neural Networks**
 
 - 💬 Ask me about **AI, python, Machine learning**
 
